@@ -1,2 +1,3 @@
 .parcel-cache/
- .idea/
+.idea
+.DS_Store
